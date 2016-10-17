@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Restaurant Advisor v1.7\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2016-09-27 10:05+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: BestWebSoft <wp_theme@bestwebsoft.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "Sorry, requested post not found"
+msgstr "Извините, запрашиваемая страница не найдена"
+
+#: archive.php:49 image.php:34 index.php:46 page.php:39 search.php:43
+#: single.php:30
+msgid "Pages"
+msgstr "Страница"
+
+#: archive.php:72 index.php:69 search.php:59
+msgid "top"
+msgstr "вверх"
+
+#: archive.php:88 index.php:84 search.php:71
+msgid "Sorry, no posts were found"
+msgstr "Извините, ничего не найдено"
+
+#: comments.php:11
+msgid "Comments closed"
+msgstr "Комментарии запрещены"
+
+#: comments.php:13
+msgid "No comments yet"
+msgstr "Здесь пока нет комментариев"
+
+#: comments.php:16
+msgid "comments"
+msgstr "комментарии"
+
+#: comments.php:19 comments.php:34
+msgid "prev comments"
+msgstr "пред. комментарий"
+
+#: comments.php:22 comments.php:37
+msgid "next comments"
+msgstr "след. комментарий"
+
+#: comments.php:43
+msgid "name"
+msgstr "ваше имя"
+
+#: comments.php:44
+msgid "Your Name"
+msgstr "Ваше Имя"
+
+#: comments.php:46
+msgid "e-mail"
+msgstr "ваш e-mail"
+
+#: comments.php:47
+msgid "Your E-mail"
+msgstr "Ваш E-mail"
+
+#: comments.php:53
+msgid "comment"
+msgstr "ваш комментарий"
+
+#: comments.php:54
+msgid "Your Comment"
+msgstr "Ваш Комментарий"
+
+#: comments.php:55
+msgid "leave a comment"
+msgstr "оставить комментарий"
+
+#: comments.php:56
+msgid "submit comment"
+msgstr "подтвердить"
+
+#: footer.php:37
+msgid "Contact us"
+msgstr "Напишите нам"
+
+#: footer.php:65
+msgid "Theme by"
+msgstr "Тема разработана"
+
+#: functions.php:76
+msgid "Primary Menu"
+msgstr "Главное Меню"
+
+#: functions.php:77
+msgid "Top Menu"
+msgstr "Меню Шапки"
+
+#: functions.php:78
+msgid "Footer Menu"
+msgstr "Меню Подвала"
+
+#: functions.php:92
+msgid "for header logo"
+msgstr "для логотипа шапки"
+
+#: functions.php:94
+msgid "Logo"
+msgstr "Логотип"
+
+#: functions.php:96
+msgid "Load the logo to your site."
+msgstr "Загрузите логотип Вашего сайта"
+
+#: functions.php:96
+msgid "Recommended sizes"
+msgstr "Рекомендуемые размеры"
+
+#: functions.php:96
+msgid "for footer logo"
+msgstr "для логотипа подвала"
+
+#: functions.php:100
+msgid "Theme Options"
+msgstr " Настройки Темы"
+
+#: functions.php:102
+msgid ""
+"Here you can change the address and phone the site owner, and also link to "
+"reservation service . It's posible to save forms empty."
+msgstr ""
+"Здесь можно изменить адрес и телефон владельца сайта, а также ссылку на "
+"сервис бронирования. Возможно оставить формы пустыми."
+
+#: functions.php:106 functions.php:187
+msgid "Address"
+msgstr "Адрес"
+
+#: functions.php:108
+msgid "Enter you address. E.g."
+msgstr "Введите ваш адрес. Напр."
+
+#: functions.php:108
+msgid "1600 Amphitheatre Parkway Mountain View CA 94043"
+msgstr "1600 Amphitheatre Parkway Mountain View CA 94043"
+
+#: functions.php:113 functions.php:180
+msgid "Phone"
+msgstr "Телефон"
+
+#: functions.php:115
+msgid "Enter you phone number. E.g."
+msgstr "Введите ваш номер телефона. Напр."
+
+#: functions.php:120
+msgid "Reservation"
+msgstr "Бронирование"
+
+#: functions.php:122
+msgid "Enter the reservation system URL. E.g."
+msgstr "Введите URL системы бронирования. Напр."
+
+#: functions.php:127
+msgid "Email"
+msgstr "Email"
+
+#: functions.php:129
+msgid "Enter the e-mail for feedback. E.g."
+msgstr "Введите e-mail для обратной связи. Напр."
+
+#: functions.php:167
+msgid "Header Logo"
+msgstr "Логотип Шапки"
+
+#: functions.php:174
+msgid "Footer Logo"
+msgstr "Лого Подвала"
+
+#: functions.php:194
+msgid "Reservation link"
+msgstr "Ссылка на страницу бронирования"
+
+#: functions.php:201
+msgid "E-mail for feedback"
+msgstr "E-mail для обратной связи"
+
+#: functions.php:221
+msgid "Choose File"
+msgstr "Выберите Файл"
+
+#: functions.php:222
+msgid "No file chosen"
+msgstr "Файл не выбран"
+
+#: functions.php:242
+msgid "Advisor sidebar"
+msgstr "Боковая колонка"
+
+#: functions.php:250
+msgid "Footer Widget"
+msgstr "Виджеты Подвала"
+
+#: functions.php:283
+msgid "Advisor Recent Posts"
+msgstr "Свежие Записи От Advisor"
+
+#: functions.php:283
+msgid "Widget recent posts for advisor theme"
+msgstr "Виджет, показывающий свежие записи для темы  Advisor"
+
+#: functions.php:291
+msgid "Recent Posts"
+msgstr "Свежие Записи"
+
+#: functions.php:358
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: functions.php:362
+msgid "Number of posts to show:"
+msgstr "Отображать записей:"
+
+#: functions.php:387 functions.php:412 functions.php:434 page.php:23
+msgid "Edit"
+msgstr "Редактировать"
+
+#: functions.php:399
+msgid "Posted by"
+msgstr "Опубликовано пользователем"
+
+#: functions.php:414
+msgid "Pingback: "
+msgstr "Уведомление: "
+
+#: functions.php:421
+msgid "written by"
+msgstr "сказано"
+
+#: functions.php:441
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: functions.php:447
+msgid "read more"
+msgstr "продолжить чтение"
+
+#: header.php:32
+msgid "view us on"
+msgstr "мы здесь"
+
+#: header.php:38
+msgid "reservation"
+msgstr "бронирование"
+
+#: image.php:48
+msgid "PREV"
+msgstr "ПРЕД."
+
+#: image.php:49
+msgid "NEXT"
+msgstr "СЛЕД."
+
+#: search.php:13
+msgid "Search Results for"
+msgstr "Поиск по запросу"
+
+#: searchform.php:13
+msgid "Enter search keyword"
+msgstr "Введите поисковый запрос"
+
+#: single.php:51
+msgid "prev"
+msgstr "пред"
+
+#: single.php:52
+msgid "next"
+msgstr "след"
+
+#~ msgid "Tag"
+#~ msgstr " Метка"
+
+#~ msgid "Category"
+#~ msgstr "Рубрика"
+
+#~ msgid "Archive"
+#~ msgstr "Архив"
+
+#~ msgid "Copyright"
+#~ msgstr "Авторские права"
+
+#~ msgid "Post Address"
+#~ msgstr "Почтовый Адрес"
+
+#~ msgid "You can enter the adddres here for show the reference to Google Maps"
+#~ msgstr "Здесь вы можете ввести адрес, чтобы показать ссылку на Гугл Карты"
+
+#~ msgid "Visit this place"
+#~ msgstr "Посетить это место"
+
+#~ msgid "ERROR"
+#~ msgstr "ОШИБКА"
+
+#~ msgid "E-mail is not valid"
+#~ msgstr "Неверный e-mail"
+
+#~ msgid "Reservation link is not valid"
+#~ msgstr "Неверная ссылка на страницу бронирования"
+
+#~ msgid "Options saved."
+#~ msgstr "Информация сохранена."
+
+#~ msgid "Save Changes"
+#~ msgstr "Сохранить изменения"
+
+#~ msgid "Gallery Category"
+#~ msgstr "Категория галереи"
+
+#~ msgid "Download high resolution image"
+#~ msgstr "Загрузите изображение большего разрешения"
+
+#~ msgid "Sorry, nothing found."
+#~ msgstr "Извините, ничего не найдено"
+
+#~ msgid "Image"
+#~ msgstr "Изображение"
+
+#~ msgid "Post Place"
+#~ msgstr "Адрес для записи"
+
+#~ msgid "Nothing Found!"
+#~ msgstr "Ничего не найдено!"
+
+#, fuzzy
+#~ msgid "results from"
+#~ msgstr "Поиск по запросу"
+
+#~ msgid "Contact Data"
+#~ msgstr "Контактные Данные"
+
+#~ msgid "SUBMIT COMMENT"
+#~ msgstr "ПОДТВЕРДИТЬ"
+
+#~ msgid "VIEW US ON"
+#~ msgstr "МЫ ЗДЕСЬ"
+
+#~ msgid "RESERVATION"
+#~ msgstr " БРОНИРОВАНИЕ"
+
+#~ msgid "COMMENTS"
+#~ msgstr "КОММЕНТАРИИ"
+
+#~ msgid "PREV COMMENTS"
+#~ msgstr "ПРЕД. КОММЕНТАРИИ"
+
+#~ msgid "NEXT COMMENTS"
+#~ msgstr "СЛЕД. КОММЕНТАРИИ"
+
+#~ msgid "NAME"
+#~ msgstr "ИМЯ"
+
+#~ msgid "E-MAIL"
+#~ msgstr "Электронная почта"
+
+#~ msgid "COMMENT"
+#~ msgstr "КОММЕНТАРИЙ"
+
+#~ msgid "LEAVE A COMMENT"
+#~ msgstr "ОСТАВИТЬ КОММЕНТАРИЙ"
+
+#~ msgid "WRITTEN BY"
+#~ msgstr "СКАЗАНО"
+
+#~ msgid "Enter the URL without  ' http:// '"
+#~ msgstr "Введите URL без  ' http:// '"
+
+#~ msgid "Posted in"
+#~ msgstr "Опубликовано в"
+
+#~ msgid "Page"
+#~ msgstr "Страница"
+
+#~ msgid "Change the contact data here"
+#~ msgstr "Здесь можно изменить контактные данные"
+
+#~ msgid "About Us"
+#~ msgstr "О Нас"
+
+#~ msgid "Display post date?"
+#~ msgstr "Отображать дату публикации записи?"
